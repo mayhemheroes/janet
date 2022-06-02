@@ -1,0 +1,4 @@
+project: PROJECT
+target: fuzz_dostring
+cmds:
+- cmd: /out/fuzz_dostring
